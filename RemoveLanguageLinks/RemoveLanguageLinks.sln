@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLanguageLinks", "RemoveLanguageLinks\RemoveLanguageLinks.csproj", "{07C8DE2F-5507-4E8C-89C8-6AE1200619D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C8DE2F-5507-4E8C-89C8-6AE1200619D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C8DE2F-5507-4E8C-89C8-6AE1200619D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C8DE2F-5507-4E8C-89C8-6AE1200619D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C8DE2F-5507-4E8C-89C8-6AE1200619D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4206D0BA-4427-4130-9BEA-37EDA569897A}
+	EndGlobalSection
+EndGlobal
